@@ -12,7 +12,7 @@ env=JoypadSpace(env,SIMPLE_MOVEMENT)
 env = GrayScaleObservation(env, keep_dim=True)
 
 
-SAVE_PATH = '.\model\contra_ppn'
+SAVE_PATH = './model/contra_ppn' 
 
 
 

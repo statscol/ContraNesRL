@@ -2,7 +2,7 @@
 
 Trying to play classic nes games using Reinforcement Learning
 
-![test output](https://github.com/statscol/ContraNesRL/blob/main/demo.png?raw=true)
+![test output](https://github.com/statscol/ContraNesRL/blob/main/demo.gif?raw=true)
 
 PPO model using stable_baselines3 api and Gym-contra to train an agent to play classic Contra game on Nes
 
