@@ -1,5 +1,4 @@
 # ContraNesRL
-### Style Transfer Test
 
 Trying to play classic nes games using Reinforcement Learning
 
@@ -16,7 +15,7 @@ python train.py -lr 0.000001 -t 100000
 python play.py
 ```
 
-Or to test only use play
+Or once you have trained your model, test it using play module
 
 ```console
 python play.py
